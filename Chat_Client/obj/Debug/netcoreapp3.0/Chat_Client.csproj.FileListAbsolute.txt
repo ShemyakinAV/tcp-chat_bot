@@ -1,0 +1,11 @@
+D:\Lifehack\ClientServer_Test\Chat_Client\bin\Debug\netcoreapp3.0\Chat_Client.exe
+D:\Lifehack\ClientServer_Test\Chat_Client\bin\Debug\netcoreapp3.0\Chat_Client.deps.json
+D:\Lifehack\ClientServer_Test\Chat_Client\bin\Debug\netcoreapp3.0\Chat_Client.runtimeconfig.json
+D:\Lifehack\ClientServer_Test\Chat_Client\bin\Debug\netcoreapp3.0\Chat_Client.runtimeconfig.dev.json
+D:\Lifehack\ClientServer_Test\Chat_Client\bin\Debug\netcoreapp3.0\Chat_Client.dll
+D:\Lifehack\ClientServer_Test\Chat_Client\bin\Debug\netcoreapp3.0\Chat_Client.pdb
+D:\Lifehack\ClientServer_Test\Chat_Client\obj\Debug\netcoreapp3.0\Chat_Client.AssemblyInfoInputs.cache
+D:\Lifehack\ClientServer_Test\Chat_Client\obj\Debug\netcoreapp3.0\Chat_Client.AssemblyInfo.cs
+D:\Lifehack\ClientServer_Test\Chat_Client\obj\Debug\netcoreapp3.0\Chat_Client.dll
+D:\Lifehack\ClientServer_Test\Chat_Client\obj\Debug\netcoreapp3.0\Chat_Client.pdb
+D:\Lifehack\ClientServer_Test\Chat_Client\obj\Debug\netcoreapp3.0\Chat_Client.csprojAssemblyReference.cache
